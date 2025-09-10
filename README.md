@@ -68,7 +68,7 @@ Back-end engineer & AI tinkerer. I design **robust APIs**, craft **clean archite
       <p>End-to-end telehealth with secure auth (MFA), role-based access, scheduling, and **3D anatomy models**.</p>
       <p><b>Stack:</b> Flask · MySQL · Together API · Aiven · Docker</p>
       <p>
-        <a href="https://github.com/yadsashel/telehealth-collab"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/yadsashel/yadsashel-Telehealth-Collaboration-Platform"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://yadsashel-telehealth-collaboration.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge" /></a>
       </p>
       <img src="https://raw.githubusercontent.com/yadsashel/telehealth-collab/main/.github/preview.gif" alt="telehealth demo" />
@@ -78,7 +78,7 @@ Back-end engineer & AI tinkerer. I design **robust APIs**, craft **clean archite
       <p>Secure personal finance API for tracking expenses, budgets, and savings with robust auth & error handling.</p>
       <p><b>Stack:</b> Python · Flask · MongoDB · Render · Docker</p>
       <p>
-        <a href="https://github.com/yadsashel/fintrack-api"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/yadsashel/FinTrack-API-Simplifying-Personal-Finance-Management"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://fintrack-api-simplifying-personal.onrender.com/"><img src="https://img.shields.io/badge/Live-API-22d3ee?style=for-the-badge" /></a>
       </p>
       <img src="https://raw.githubusercontent.com/yadsashel/fintrack-api/main/.github/preview.gif" alt="fintrack demo" />
@@ -100,7 +100,7 @@ Back-end engineer & AI tinkerer. I design **robust APIs**, craft **clean archite
       <p>Text generation pipeline with **React + Vite** front-end and **FastAPI** async backend.</p>
       <p><b>Stack:</b> React · Vite · FastAPI · PostgreSQL · Docker</p>
       <p>
-        <a href="https://github.com/yadsashel/ai-content-generator"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/yadsashel/AI-Content-Generator"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://aicontetntgenerated.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge" /></a>
       </p>
       <img src="https://raw.githubusercontent.com/yadsashel/ai-content-generator/main/.github/preview.gif" alt="ai generator demo" />
