@@ -90,7 +90,7 @@ Back-end engineer & AI tinkerer. I design **robust APIs**, craft **clean archite
       <p>E-commerce for Moroccan Amlu with **inventory**, dynamic order tracking & **PDF/CSV** exports.</p>
       <p><b>Stack:</b> Flask · Firebase · Fly.io · HTML/CSS/JS</p>
       <p>
-        <a href="https://github.com/yadsashel/amlumizahara"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/yadsashel/Amlou-MiZahra"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://amlou-mizahra-dawn-snow-890.fly.dev/"><img src="https://img.shields.io/badge/Live-Site-22d3ee?style=for-the-badge" /></a>
       </p>
       <img src="https://raw.githubusercontent.com/yadsashel/amlumizahara/main/.github/preview.gif" alt="amlu demo" />
