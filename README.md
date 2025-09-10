@@ -79,7 +79,7 @@ Back-end engineer & AI tinkerer. I design **robust APIs**, craft **clean archite
       <p><b>Stack:</b> Python · Flask · MongoDB · Render · Docker</p>
       <p>
         <a href="https://github.com/yadsashel/FinTrack-API-Simplifying-Personal-Finance-Management"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://fintrack-api-simplifying-personal.onrender.com/"><img src="https://img.shields.io/badge/Live-API-22d3ee?style=for-the-badge" /></a>
+        <a href="https://fintrack-api-simplifying-personal.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge" /></a>
       </p>
       <img src="./Images/brave_screenshot_fintrack-api-simplifying-personal.onrender.com.png" alt="fintrack demo" />
     </td>
@@ -91,7 +91,7 @@ Back-end engineer & AI tinkerer. I design **robust APIs**, craft **clean archite
       <p><b>Stack:</b> Flask · Firebase · Fly.io · HTML/CSS/JS</p>
       <p>
         <a href="https://github.com/yadsashel/Amlou-MiZahra"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://amlou-mizahra-dawn-snow-890.fly.dev/"><img src="https://img.shields.io/badge/Live-Site-22d3ee?style=for-the-badge" /></a>
+        <a href="https://amlou-mizahra-dawn-snow-890.fly.dev/"><img src="https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge" /></a>
       </p>
       <img src="./Images/brave_screenshot_amlou-mizahra-dawn-snow-890.fly.dev.png" alt="amlu demo" />
     </td>
