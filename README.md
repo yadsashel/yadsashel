@@ -71,7 +71,7 @@ Back-end engineer & AI tinkerer. I design **robust APIs**, craft **clean archite
         <a href="https://github.com/yadsashel/yadsashel-Telehealth-Collaboration-Platform"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://yadsashel-telehealth-collaboration.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge" /></a>
       </p>
-      <img src="https://raw.githubusercontent.com/yadsashel/telehealth-collab/main/.github/preview.gif" alt="telehealth demo" />
+      <img src="./Images/brave_screenshot_yadsashel-telehealth-collaboration.onrender.com (1).png" alt="telehealth demo" />
     </td>
     <td width="50%">
       <h3>FinTrack API</h3>
